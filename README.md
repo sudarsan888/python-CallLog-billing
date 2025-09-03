@@ -1,7 +1,5 @@
 # python-CallLog-billing
 Telecom Call Log Billing Automation (Python)
-# Vodafone Billing (Python)
-
 Simple Python script to generate a mobile bill from call logs.
 
 ## Files
