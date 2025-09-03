@@ -6,14 +6,14 @@ Simple Python script to generate a mobile bill from call logs.
 
 ## Files
 - python-billing.py  — billing script
-- 9986019198.txt    — sample input (text file)
+- input.txt    — sample input (text file)
 - .gitignore
 
 ## Run (locally)
 1. Download or clone the repo.
 2. Open terminal in repo folder.
 3. Run:
-   python python-billing.py 9986019198.txt
+   python python-billing.py input.txt
 
 ## Input format
 Each input line:
